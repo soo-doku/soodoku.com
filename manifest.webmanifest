@@ -1,7 +1,7 @@
 {
   "name": "Soodoku • Free Sudoku Puzzle Game",
   "display": "standalone",
-  "start_url": "https://soodoku.com",
+  "start_url": "https://soodoku.com/",
   "short_name": "Soodoku",
   "description": "Free online & offline number game optimized for web & mobile entertainment and available in airplaine mode",
   "icons": [
@@ -45,8 +45,10 @@
       "src": "/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "density": "4.0"
+      "density": "4.0",
+      "purpose": "any maskable"
     }
   ],
+  "theme_color": "#000000",
   "background_color": "#000000"
 }
