@@ -1,9 +1,9 @@
 {
-  "name": "Soodoku: Advanced Online & Offline Sudoku Game",
+  "name": "Best Sudoku Game: Free, Unlimited Puzzles, Offline, No Ads",
   "display": "standalone",
   "start_url": "https://soodoku.com/",
   "short_name": "Soodoku",
-  "description": "Free online & offline number game with unlimited puzzles available 24/7 in any browser and in airplaine mode",
+  "description": "Free online & offline sudoku game with unlimited puzzles available 24/7 without ads or registration",
   "icons": [
     {
       "src": "/android-chrome-36x36.png",
